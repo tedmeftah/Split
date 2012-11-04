@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+shift+alt+s"], "command": "open_terminal" }
+]
